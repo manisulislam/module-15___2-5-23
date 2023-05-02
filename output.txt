@@ -1,0 +1,4 @@
+x address 0061FF1C
+ptr value 0061FF1C
+ptr address 0061FF18
+ptr size 4
