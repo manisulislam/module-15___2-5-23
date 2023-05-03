@@ -1,4 +1,12 @@
-x er address -0061FF1C
-p er value- 0061FF1C
-main x er value-100
-600
+0th index er address-0061FF0C
+ar er address-0061FF0C
+0th value-10
+ar er value-10
+1th index er value-20
+1th index er value with pointer-20
+2nd index er value-30
+2nd index er value - 30
+20
+20
+20
+20
